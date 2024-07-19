@@ -1,2 +1,2 @@
 # qc-notebooks
- A set of notebooks with simple qiskit examples 
+A set of notebooks with simple qiskit examples 
